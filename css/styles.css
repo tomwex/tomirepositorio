@@ -1,0 +1,13 @@
+body {
+    font-family: 'Roboto', sans-serif; /* Usar Roboto como fuente principal */
+}
+
+.hover-effect:hover {
+    transform: scale(1.05); /* Aumentar el tamaño al pasar el mouse */
+    transition: transform 0.3s ease; /* Transición suave */
+}
+
+footer {
+    background-color: #f8f9fa; /* Color de fondo del footer */
+    padding: 20px; /* Espaciado interno */
+}
